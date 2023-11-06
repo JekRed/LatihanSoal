@@ -1,0 +1,10 @@
+1. Sebutkan permasalahan yang muncul pada Sistem Operasi! (min 5)
+2. Sebutkan gejala permasalahan yang muncul pada motherboard! (min 5)
+3. Sebutkan kesalahan yang muncul jika dalam kode AMI BIOS terdengar suara,
+        a.1 beep pendek
+        b.4 beep pendek
+        c.1 beep panjang 8 beep pendek
+        d.8 beep pendek
+        e.5 beep pendek
+4. Sebutkan pesan error umum yang sering muncul pada sistem operasi Windows dan jelaskan artinya!
+5. Sebutkan pesan teks BIOS yang sering muncul dan informasi pesan yang muncul pada pesan teks tersebut!
